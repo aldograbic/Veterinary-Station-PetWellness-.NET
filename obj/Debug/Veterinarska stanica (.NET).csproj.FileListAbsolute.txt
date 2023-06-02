@@ -1,0 +1,32 @@
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.Form1.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormAddPet.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormSee.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\bin\Debug\App_Data\VeterinaryStationDB.mdf
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\bin\Debug\App_Data\VeterinaryStationDB_log.ldf
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinarska stanica (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormSearchResult.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\bin\Debug\App_Data\VeterinaryStationDB.mdf
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\bin\Debug\App_Data\VeterinaryStationDB_log.ldf
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\bin\Debug\Veterinarska stanica (.NET).pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.Form1.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormAddPet.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormSearchResult.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.FormSee.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska_stanica__.NET_.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Veterinary Station PetWellness  (.NET)\Veterinarska stanica (.NET)\obj\Debug\Veterinarska stanica (.NET).pdb
